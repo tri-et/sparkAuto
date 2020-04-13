@@ -9006,19 +9006,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\john1\\.nuget\\packages\\": {}
+    "C:\\Users\\John\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SparkAuto\\SparkAuto\\SparkAuto.csproj",
+      "projectUniqueName": "D:\\sparkAuto\\SparkAuto\\SparkAuto.csproj",
       "projectName": "SparkAuto",
-      "projectPath": "E:\\SparkAuto\\SparkAuto\\SparkAuto.csproj",
-      "packagesPath": "C:\\Users\\john1\\.nuget\\packages\\",
-      "outputPath": "E:\\SparkAuto\\SparkAuto\\obj\\",
+      "projectPath": "D:\\sparkAuto\\SparkAuto\\SparkAuto.csproj",
+      "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
+      "outputPath": "D:\\sparkAuto\\SparkAuto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\john1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
